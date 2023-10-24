@@ -67,7 +67,6 @@ export default GamePlay;
 
 const MainContainer = styled.main`
   padding-top: 70px;
-  background-color: red;
   .top_section {
     display: flex;
     justify-content: space-around;

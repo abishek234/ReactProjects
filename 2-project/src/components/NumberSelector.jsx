@@ -37,7 +37,7 @@ const NumberSelectorContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: end;
-  background-color: red;
+  
 
   .flex {
     display: flex;
